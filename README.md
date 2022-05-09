@@ -72,7 +72,7 @@ ft_printf
 
 🎉DONE!!!🥳🎉
 
-[![hkikuchi's 42Project Score](https://badge42.herokuapp.com/api/project/hkikuchi/ft_printf)](https://github.com/JaeSeoKim/badge42)
+[![hkikuchi's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl2yp504l006109mh3mmv9c3c/project/2063037)](https://github.com/JaeSeoKim/badge42)
 
 
 # HOW TO MOVE IT?(ENGLISH)
